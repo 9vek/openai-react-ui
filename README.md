@@ -1,13 +1,19 @@
 # gpt-react-ui
 simple configurable typescript + react webapp for chatting with GPT or requesting other OpenAI APIs 
+
 简单可配置的TypeScript + React Web应用，用于与GPT聊天或请求其他OpenAI APIs
 
-Current Features | 当前功能:
+**Current Features** | 当前功能:
 - Easy-to-use chatroom | 简单易用的聊天交互
+- Mobile first design | 移动设备优先
 - Markdown renderer for GPT's answer | 对GPT回答的Markdown渲染器
+- Switch different roles in use | 使用时切换不同GPT人设
 - Users can input API Key and Proxy Server in use | 用户可以在使用中填入API Key和代理服务器
 - Quick add pre-defined roles | 快速添加预定义的人设
 - Static deployment | 静态网站部署
+
+## Screenshot | 屏幕截图
+[!img](./screenshot.png)
 
 ## Quick Use | 快速使用
 clone this repo and `cd` into the project folder
