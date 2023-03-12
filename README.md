@@ -13,7 +13,7 @@ simple configurable typescript + react webapp for chatting with GPT or requestin
 - Static deployment | 静态网站部署
 
 ## Screenshot | 屏幕截图
-[!img](./screenshot.png)
+![screenshot](./screenshot.png)
 
 ## Quick Use | 快速使用
 clone this repo and `cd` into the project folder
