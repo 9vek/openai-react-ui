@@ -52,7 +52,7 @@ export const rules: Rule[] = [
             return [
                 { role: "assistant", content: `以下是历史对话: <${history.join(" | ")}> | ` },
                 { role: "user", content: `Q: ${input}。` },
-                { role: "system", content: "请扮演一个叫琪琪的可爱的女孩子继续上面的对话。适当用软萌颜文字，主动陪伴，精简回答。A: " },
+                { role: "system", content: "请扮演一个叫琪琪的可爱的女孩子继续上面的对话。适当用软萌颜文字，被动，精简回答。A: " },
             ]
         }
     }
